@@ -1,4 +1,12 @@
 # Tecnologia Web:
+#AC 4 Arquivos: https://github.com/Narco26/Narco26.github.io/tree/master/TecnologiaWeb/AC4
+
+  Index: https://Narco26.github.io/TecnologiaWeb/AC4/index.html
+  
+#AC 3 Arquivos: https://github.com/Narco26/Narco26.github.io/tree/master/TecnologiaWeb/AC3
+
+  Index: https://Narco26.github.io/TecnologiaWeb/AC3/index.html
+
 #AC 2 Arquivos: https://github.com/Narco26/Narco26.github.io/tree/master/TecnologiaWeb/AC2
 
   
@@ -19,13 +27,3 @@
   Pagina3: https://github.com/Narco26/Narco26.github.io/blob/master/TecnologiaWeb/AC2/p3.html
   
   Pagina4: https://github.com/Narco26/Narco26.github.io/blob/master/TecnologiaWeb/AC2/p4.html
-  
-  
-#AC 3 Arquivos: https://github.com/Narco26/Narco26.github.io/tree/master/TecnologiaWeb/AC3
-
-  Index: https://Narco26.github.io/TecnologiaWeb/AC3/index.html
-  
-
-#AC 4 Arquivos: https://github.com/Narco26/Narco26.github.io/tree/master/TecnologiaWeb/AC4
-
-  Index: https://Narco26.github.io/TecnologiaWeb/AC4/index.html
