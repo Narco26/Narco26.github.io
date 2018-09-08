@@ -1,0 +1,25 @@
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo {
+    color: red;
+    font-style: italic;
+    text-align: center;
+}
+
+.negrito{
+    font-weight: bold;
+}
+
+.vermelha{
+    color: red;
+}
+
+.verde{
+    color: lime;
+}
+
+.sublinhado{
+    text-decoration: underline;
+}
