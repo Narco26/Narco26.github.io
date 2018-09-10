@@ -22,6 +22,12 @@ form input {
     font-weight: bold;
     width: 100%;
 }
+#cpf, #rg{
+    width: 85px;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+
 form select{
     background-color: rgb(149, 204, 226);
     font-weight: bold;
